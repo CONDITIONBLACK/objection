@@ -30,7 +30,7 @@
   "dependencies": {
     "frida-java": "^2",
     "frida-objc": "^3",
-    "frida-screenshot": "^2"
+    "frida-screenshot": "^3.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7",
